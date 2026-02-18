@@ -6,7 +6,7 @@ const AppConfig = {
   },
 
   paystack: {
-    publicKey: "pk_test_932738e635f600a4e85b63de1d71df1709448a11", 
+    publicKey: "pk_live_84496f587895582684a365f58bde9b0e8b3bf1ee", 
   },
 
   app: {
